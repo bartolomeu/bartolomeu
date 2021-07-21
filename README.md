@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-## I'm a Developer, Enthusiast, Discoverer and Student!
+## I'm a Developer, Enthusiast, Discoverer and a Forever Student!
 - 🔭 I’m currently open for working!
 - 🌱 I’m currently learning TypeScript and perfecting React/NodeJS
 - 💻 I’m looking to collaborate with other projects
@@ -20,7 +17,7 @@ Always trying to practice and learn this incredible and beautiful universe!
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mlg404)](https://github.com/bartolomeu)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victoreyer)](https://www.linkedin.com/in/bartolomeugusella)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5522998538279&text=Hello!)](https://api.whatsapp.com/send?phone=5522998538279&text=Hello!)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5562985042001&text=Hey Bart!)](https://api.whatsapp.com/send?phone=5562985042001&text=Hey Bart!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ccbarto@gmail.com)](mailto:ccbarto@gmail.com)
 
 
