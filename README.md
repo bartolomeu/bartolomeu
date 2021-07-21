@@ -1,19 +1,9 @@
 ### Hi there 👋
 
-<!--
+
 **bartolomeu/bartolomeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## I'm a Developer, Enthusiast, Discoverer and Student!
 - 🔭 I’m currently open for working!
 - 🌱 I’m currently learning TypeScript and perfecting React/NodeJS
@@ -55,7 +45,9 @@ Always trying to practice and learn this incredible and beautiful universe!
 <br />
 <br />
 
+<!--
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bartolomeu&layout=compact" />
+-->
 <img align="left" width="450px" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=bartolomeu&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=issues,contribs&line_height=36" />
 
 
