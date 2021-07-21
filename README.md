@@ -1,15 +1,12 @@
 ### Hi there 👋
 
 
-**bartolomeu/bartolomeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 ## I'm a Developer, Enthusiast, Discoverer and Student!
 - 🔭 I’m currently open for working!
 - 🌱 I’m currently learning TypeScript and perfecting React/NodeJS
 - 💻 I’m looking to collaborate with other projects
-- 🥅 2021 Goals: Contribute more to Open Source projects and improve my portfolio
-- ⚡ Fun fact: I love to play games 🎮
+- 🥅 2021 Goals: Learn more about TypeScript ans Testing
+- ⚡ Fun fact: I love to play RPG
 
 ### Short description
 
