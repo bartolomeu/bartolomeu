@@ -1,8 +1,8 @@
 ## I'm a Developer, Enthusiast, Discoverer and a Forever Student!
 - 🔭 I’m currently open for working!
-- 🌱 I’m currently learning TypeScript and perfecting React/NodeJS
+- 🌱 I’m currently learning Rust
 - 💻 I’m looking to collaborate with other projects
-- 🥅 2021 Goals: Learn more about TypeScript ans Testing
+- 🥅 Goals: Learn about Rust
 - ⚡ Fun fact: I love to play RPG
 
 ### Short description
