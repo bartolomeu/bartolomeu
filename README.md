@@ -1,9 +1,9 @@
-## ⚡ I'm a Developer, Enthusiast, Discoverer and a Forever Student!
+## ⚡ I'm a Developer, Enthusiast, Forever Student, and a Scientist 🔍
 - 🔭 I’m currently open for working!
 - 🌱 I’m currently learning Rust
 - 💻 I’m looking to collaborate with other projects
 - 🥅 Goals: Learn about Rust
-- 💫 Fun fact: I love to play RPG
+- 💫 Fun fact: I love to play RPG 
 
 ### Short description
 
